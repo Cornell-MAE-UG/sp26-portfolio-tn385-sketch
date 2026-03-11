@@ -3,7 +3,7 @@ layout: project
 title: "Lever Nutcracker Design"
 description: Nutcracker Calculations
 technologies: [Statics, Design]
-image: /assets/images/spaceship-design.jpg
+image: /assets/images/nutcracker.jpg
 ---
 
 # Lever Nutcracker Design
