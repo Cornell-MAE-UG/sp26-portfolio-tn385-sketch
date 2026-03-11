@@ -17,7 +17,7 @@ baseurl                  : "/sp26-portfolio-tn385-sketch/" # Set this to your re
 
 # Theme and Style
 theme: jekyll-theme-minimal
-color_scheme: light # light/default, dark, or aqua
+color_scheme: aqua # light/default, dark, or aqua
 
 sass:
   style: compressed
