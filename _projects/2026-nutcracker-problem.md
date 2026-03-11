@@ -40,21 +40,11 @@ Instead of hand grip, an IP65 Mini Linear Actuator replaces the input force. The
 
 ![Part C calculations]({{ "/assets/images/part-c-calculations.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
-*What to show in your handwritten work:*
-- New ratio: ℓ_c / ℓₙ = 222.18 / 76.6 = **2.90**
-- With ℓₙ = 5 cm → ℓ_c = **14.49 cm**
-- Gap check via similar triangles: Hₙ = (5.13 in × 2.54 cm/in) / 2.90 = **4.49 cm**
-- Note: Hₙ > nut size (2 cm), so closed position must seat at Hₙ = 2 cm
-- Sketch revised compact design with actuator at tip
-
 
 
 **4. Diagram**
 
 ![With Linear Actuator]({{ "/assets/images/linear-actuator.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
-
-
-
 
 
 **5. Discussion on Usability of Design**
