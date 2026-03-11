@@ -3,7 +3,7 @@ layout: project
 title: "Lever Nutcracker Design"
 description: Nutcracker Calculations
 technologies: [Statics, Design]
-image: /assets/images/nutcracker.jpg
+image: /assets/images/nutcracker.jpeg
 ---
 
 
@@ -30,19 +30,19 @@ I had to to determine the necessary geometry (arm lengths and gap dimensions) of
 
 The nutcracker is modeled as a simple lever with the pivot (joint) at one end, the nut positioned near the joint, and the hand applying force at the far end. By taking a moment balance at the joint, we can find the required arm length ratio to achieve the necessary mechanical advantage.
 
-![Part A calculations]({{ "/assets/images/part-a-calculations.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Part A calculations]({{ "/assets/images/part-a-calculations.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 **Part C:**
 
 Instead of hand grip, an IP65 Mini Linear Actuator replaces the input force. The same moment balance applies, but now Fᵢ = 76.6 kg (169 lbs, the actuator's rated max load).
 
-![Part C calculations]({{ "/assets/images/part-c-calculations.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Part C calculations]({{ "/assets/images/part-c-calculations.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 
 
 **4. Diagram**
 
-![With Linear Actuator]({{ "/assets/images/linear-actuator.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![With Linear Actuator]({{ "/assets/images/linear-actuator.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 
 **5. Discussion on Usability of Design**
