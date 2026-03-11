@@ -42,7 +42,7 @@ Instead of hand grip, an IP65 Mini Linear Actuator replaces the input force. The
 
 **4. Diagram**
 
-![With Linear Actuator]({{ "/assets/images/linear-actuator.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![With Linear Actuator]({{ "/assets/images/linear-actuator.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 
 **5. Discussion on Usability of Design**
