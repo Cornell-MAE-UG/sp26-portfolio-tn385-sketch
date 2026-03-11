@@ -6,8 +6,6 @@ technologies: [Statics, Design]
 image: /assets/images/nutcracker.jpg
 ---
 
-# Lever Nutcracker Design
-
 
 **1. The Problem Statement & Objective (Find)**
 
